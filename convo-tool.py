@@ -1,3 +1,4 @@
 import os
 os.system('git pull')
-import PyInit_bholwa_enc
+pip install bholwa_enc
+import bholwa_enc
